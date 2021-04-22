@@ -1,0 +1,8 @@
+#youtube-btn {
+   border-color: #f83f37;
+   color: #f83f37;
+}
+#youtube-btn:hover {
+   background-color: #f83f37;
+   color: #ffffff;
+}

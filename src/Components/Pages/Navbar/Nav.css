@@ -1,0 +1,25 @@
+.logo {
+   width: 25%;
+}
+
+.nav-theme {
+   background-color: white;
+   font-size: 20px;
+   box-shadow: 0 0 15px;
+}
+.nav-theme a {
+   color: black !important;
+}
+
+.animate-navbar {
+   animation: moveDown 0.5s ease-in-out;
+}
+
+@keyframes moveDown {
+   from {
+      transform: translateY(-5rem);
+   }
+   to {
+      transform: translateY(0rem);
+   }
+}
