@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.077d8bb8.chunk.css",
-    "main.js": "/static/js/main.fec8824a.chunk.js",
-    "main.js.map": "/static/js/main.fec8824a.chunk.js.map",
+    "main.js": "/static/js/main.e3024f3f.chunk.js",
+    "main.js.map": "/static/js/main.e3024f3f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.728fa72b.js",
     "runtime-main.js.map": "/static/js/runtime-main.728fa72b.js.map",
     "static/css/2.489a6532.chunk.css": "/static/css/2.489a6532.chunk.css",
@@ -31,6 +31,7 @@
     "static/media/mamearth.6e478e23.png": "/static/media/mamearth.6e478e23.png",
     "static/media/material-ui-1.fd510ed8.svg": "/static/media/material-ui-1.fd510ed8.svg",
     "static/media/mongodb.d89a6eeb.svg": "/static/media/mongodb.d89a6eeb.svg",
+    "static/media/music_player.7a59e7cb.png": "/static/media/music_player.7a59e7cb.png",
     "static/media/nodejs.52cbf9a8.svg": "/static/media/nodejs.52cbf9a8.svg",
     "static/media/react-bootstrap.534ba574.svg": "/static/media/react-bootstrap.534ba574.svg",
     "static/media/react-router.a87b7227.svg": "/static/media/react-router.a87b7227.svg",
@@ -43,6 +44,6 @@
     "static/css/2.489a6532.chunk.css",
     "static/js/2.1e2dde43.chunk.js",
     "static/css/main.077d8bb8.chunk.css",
-    "static/js/main.fec8824a.chunk.js"
+    "static/js/main.e3024f3f.chunk.js"
   ]
 }
